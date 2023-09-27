@@ -9,3 +9,4 @@ test remote 5
 test remote 6
 
 # notes 1
+test remote 7
